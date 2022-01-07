@@ -1,0 +1,60 @@
+body {
+  background-color: #e0ebeb;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.headCSS, .footCSS{
+  background-color: #b1cdcd;
+}
+
+h3 {
+  color: #604020;
+  font-style: italic;
+  text-shadow: 1px 1px 2px #cc6666;
+  margin-bottom: 23px;
+}
+
+#catList {
+display: block;
+}
+
+.button {
+  background: #669999;
+  border: none;
+  border-radius: 14px;
+  padding: 22px;
+  color: white;
+  float: left;
+  text-align:center;
+  width: 160px;
+  height: 28px;
+  font-size: 20px;
+  font-weight: bold;
+  transition-duration: .5s;
+  margin: 0px 14px 0px 4px;
+  font-style: italic;
+  text-decoration: none;
+  box-shadow: 5px 5px 2px #cc6666;
+}
+
+.button:hover {
+  background: white;
+  border: 1px solid #669999;
+  color: black;
+  cursor: pointer;
+}
+.image {
+  border-radius: 25px;
+  border: 5px solid #cc6666;
+  width: 102px;
+  height: 60px;
+}
+hr {
+  height: 2px;
+  border-width: 0;
+  color: #669999 ;
+  background-color: #669999;
+}
+
+
+

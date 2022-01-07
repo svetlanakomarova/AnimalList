@@ -1,0 +1,125 @@
+{
+	"A2Personal" :	{
+		"FirstName" : 			"Svetlana",
+		"LastName" : 				"Komarova",
+		"StudentID" : 			"991612772",
+		"UserName" : 				"komarovs",
+		"Program" : 				"CP",
+		"HomeCountry" : 		"Belarus"
+		},
+	"Categories" : [
+    {"cattype" : "Mammal", "logo": "mammal.jpg"},
+    {"cattype" : "Reptile", "logo": "reptile.jpg"},
+    {"cattype" : "Bird", "logo": "bird.jpg"},
+    {"cattype" : "Amphibian", "logo": "amphibian.jpg"},
+    {"cattype" : "Fish", "logo": "fish.jpg"}		
+  ],
+	"AnimalDetails": 
+	[
+		{
+			"animal": "Cheetah",
+			"category": "Mammal",
+			"scientific": "Felix jubatus",
+			"colors": "Orange",
+			"photoDepiction": "https://cdn.britannica.com/s:300x300/01/152301-120-9ABF227D.jpg"
+		},
+		{
+			"animal": "Beluga Whale",
+			"category": "Mammal",
+			"scientific": "Delphinapterus leucas",
+			"colors": "Grey and Blue",
+			"photoDepiction": "https://i.pinimg.com/236x/58/0c/d9/580cd9bbb76ee46897bb6b99b86b5ad0--dugong-beluga.jpg"
+		},
+		{
+			"animal": "Giraffe",
+			"category": "Mammal",
+			"scientific": "Giraffa",
+			"colors": "orange, brown and black",
+			"photoDepiction": "https://cdn.britannica.com/s:400x400/55/75855-004-7CB8C9F0.jpg"
+		},
+		{
+			"animal": "Tortoise",
+			"category": "Reptile",
+			"scientific": "Testudinidae",
+			"colors": "Green or Brown",
+			"photoDepiction": "https://images-na.ssl-images-amazon.com/images/I/913efLFAXIL._SL1500_.jpg"
+		},
+		{
+			"animal": "Crocodile",
+			"category": "Reptile",
+			"scientific": "Crocodylinae",
+			"colors": "green",
+			"photoDepiction": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bazoule_sacred_crocodiles_MS_6709cropped.JPG"
+		},
+		{
+			"animal": "Gila Monster",
+			"category": "Reptile",
+			"scientific": "Heloderma suspectum",
+			"colors": "green",
+			"photoDepiction": "http://gallery.kingsnake.com/data/115447outsidegilas_013-med.jpg"
+		},		
+		{
+			"animal": "Macaw",
+			"category": "Bird",
+			"scientific": "Ara macao",
+			"colors": "green, yellow, red and orange",
+			"photoDepiction": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Blue-and-Gold-Macaw-300x300.jpg"
+		},
+		{
+			"animal": "Egret",
+			"category": "Bird",
+			"scientific": "Ardea alba",
+			"colors": "white",
+			"photoDepiction": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ardea_modesta.jpg/220px-Ardea_modesta.jpg"
+		},
+		{
+			"animal": "Peacock",
+			"category": "Bird",
+			"scientific": "Pavo cristatus",
+			"colors": "green. blue and black",
+			"photoDepiction": "https://st2.depositphotos.com/1791514/11405/i/950/depositphotos_114055636-stock-photo-peacock-peafowl-beautiful-spread-of.jpg"
+		},
+		{
+			"animal": "Salamander",
+			"category": "Amphibian",
+			"scientific": "Caudata",
+			"colors": "green, black, yellow or brown",
+			"photoDepiction": "https://opimedia.azureedge.net/-/media/images/men/editorial/articles/magazine-articles/2007/02-01/a-wealth-of-salamanders/spotted-salamander-jpg.jpg"
+		},
+		{
+			"animal": "Tree Frog",
+			"category": "Amphibian",
+			"scientific": "Hylidae",
+			"colors": "green, blue and orange",
+			"photoDepiction": "https://c1.staticflickr.com/9/8820/27964054663_38a074335e_b.jpg"
+		},
+		{
+			"animal": "Tomato Frog",
+			"category": "Amphibian",
+			"scientific": "Dyscophus",
+			"colors": "red",
+			"photoDepiction": "http://www.frogpets.com/wp-content/uploads/2018/05/tomato-frog.jpg"
+		},
+		{
+			"animal": "Pirahna",
+			"category": "Fish",
+			"scientific": "Pygocentrus nattereri",
+			"colors": "gray, pink and brown",
+			"photoDepiction": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pirhana06.jpg/1200px-Pirhana06.jpg"
+		},
+		{
+			"animal": "Bluehead Wrasse",
+			"category": "Fish",
+			"scientific": "Thalassoma bifasciatum",
+			"colors": "green, yellow, white, black and blue",
+			"photoDepiction": "https://rollingharbour.files.wordpress.com/2017/02/bluehead_wrasse_thallasoma_bifasciatum_oregonstate-edu-pinterest.jpg"
+		},
+		{
+			"animal": "Seahorse",
+			"category": "Fish",
+			"scientific": 0,
+			"colors": "yellow, orange or pink",
+			"photoDepiction": "https://www.shalomadventure.com/images/cache/7909cf33bee0bc9bde4af813a9b9dcce_w180_h180_cp.jpg"
+		}
+	]
+}
